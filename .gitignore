@@ -1,3 +1,9 @@
 # Ignore large course materials
 sample.pdf
 syllabus.*
+
+# Python and editor temporary files
+.venv/
+__pycache__/
+*.py[cod]
+~$*.docx
